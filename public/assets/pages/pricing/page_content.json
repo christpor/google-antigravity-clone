@@ -1,0 +1,23 @@
+{
+  "route": "/pricing",
+  "title": "Google Antigravity - Pricing",
+  "hero_h1": "",
+  "sections": [
+    {
+      "heading": "For Individuals  $0/month"
+    },
+    {
+      "heading": "Google AI Pro"
+    },
+    {
+      "heading": "Google AI Ultra"
+    },
+    {
+      "heading": "Organization plan  via Google Cloud"
+    }
+  ],
+  "images": [
+    "/assets/image/antigravity-cursor.png"
+  ],
+  "videos": []
+}

@@ -1,0 +1,31 @@
+{
+  "route": "/product/antigravity-cli",
+  "title": "Google Antigravity - Antigravity CLI",
+  "hero_h1": "Antigravity CLI",
+  "sections": [
+    {
+      "heading": "Explore the main features"
+    },
+    {
+      "heading": "Get Started"
+    },
+    {
+      "heading": "Launch the TUI"
+    },
+    {
+      "heading": "First-Launch Setup"
+    },
+    {
+      "heading": "Learn More"
+    }
+  ],
+  "images": [
+    "/assets/image/product/antigravity-cli/hero.png",
+    "/assets/image/product/antigravity-cli/subagents-functionality.jpg",
+    "/assets/image/product/antigravity-cli/demo.gif",
+    "/assets/image/antigravity-cursor.png"
+  ],
+  "videos": [
+    "/assets/video/product-page/antigravity-cli/agy-cli-prompt.mp4"
+  ]
+}

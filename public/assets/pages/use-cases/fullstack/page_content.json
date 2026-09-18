@@ -1,0 +1,52 @@
+{
+  "url": "https://antigravity.google/use-cases/fullstack",
+  "route": "/use-cases/fullstack",
+  "route_slug": "use-cases/fullstack",
+  "title": "Google Antigravity - Use Case: Why fullstack developers choose Google Antigravity",
+  "description": "Google Antigravity elevates your fullstack applications, ensuring unparalleled trust through advanced verification and testing.",
+  "hero_h1": "Why fullstack developers choose Google Antigravity",
+  "all_h1s": [
+    "Why fullstack developers choose Google Antigravity"
+  ],
+  "sections": [
+    {
+      "heading": "Relevant Stories",
+      "paragraphs": [],
+      "images": []
+    },
+    {
+      "heading": "Download Google Antigravity",
+      "paragraphs": [
+        "Experience liftoff"
+      ],
+      "images": []
+    }
+  ],
+  "ctas": [
+    "Products keyboard_arrow_down",
+    "Use Cases keyboard_arrow_down",
+    "Pricing",
+    "Enterprise",
+    "Resources keyboard_arrow_down",
+    "Download download",
+    "menu",
+    "See overview"
+  ],
+  "images_with_context": [
+    {
+      "src": "/assets/image/use-cases/fullstack/artifacts-and-verification.jpg",
+      "alt": "Artifacts and Verification",
+      "preceding_heading": ""
+    },
+    {
+      "src": "/assets/image/use-cases/fullstack/feedback.jpg",
+      "alt": "Feedback",
+      "preceding_heading": ""
+    },
+    {
+      "src": "/assets/image/use-cases/fullstack/manager-to-editor-handoffs.jpg",
+      "alt": "Manager to Editor handoffs",
+      "preceding_heading": ""
+    }
+  ]
+}

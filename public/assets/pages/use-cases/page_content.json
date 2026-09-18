@@ -1,0 +1,47 @@
+{
+  "url": "https://antigravity.google/use-cases",
+  "route": "/use-cases",
+  "route_slug": "use-cases",
+  "title": "Google Antigravity - Use Cases",
+  "description": "Explore the many ways Google Antigravity agents can accelerate your development workflows.",
+  "hero_h1": "",
+  "all_h1s": [],
+  "sections": [],
+  "ctas": [
+    "Products keyboard_arrow_down",
+    "Use Cases keyboard_arrow_down",
+    "Pricing",
+    "Enterprise",
+    "Resources keyboard_arrow_down",
+    "Download download",
+    "menu",
+    "See overview"
+  ],
+  "images_with_context": [
+    {
+      "src": "/assets/image/antigravity-cursor.png",
+      "alt": "",
+      "preceding_heading": ""
+    },
+    {
+      "src": "/assets/image/antigravity-cursor.png",
+      "alt": "",
+      "preceding_heading": ""
+    },
+    {
+      "src": "/assets/image/antigravity-cursor.png",
+      "alt": "",
+      "preceding_heading": ""
+    },
+    {
+      "src": "/assets/image/antigravity-cursor.png",
+      "alt": "",
+      "preceding_heading": ""
+    },
+    {
+      "src": "/assets/image/antigravity-cursor.png",
+      "alt": "",
+      "preceding_heading": ""
+    }
+  ]
+}

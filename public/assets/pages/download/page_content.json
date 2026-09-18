@@ -1,0 +1,23 @@
+{
+  "route": "/download",
+  "title": "Google Antigravity - Download",
+  "hero_h1": "",
+  "sections": [
+    {
+      "heading": "Antigravity 2.0"
+    },
+    {
+      "heading": "Antigravity CLI"
+    },
+    {
+      "heading": "Antigravity for IDEs"
+    },
+    {
+      "heading": "Antigravity SDK"
+    }
+  ],
+  "images": [
+    "/assets/image/antigravity-cursor.png"
+  ],
+  "videos": []
+}

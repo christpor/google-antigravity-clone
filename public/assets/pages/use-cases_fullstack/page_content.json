@@ -1,0 +1,19 @@
+{
+  "route": "/use-cases/fullstack",
+  "title": "Google Antigravity - Use Case: Why fullstack developers choose Google Antigravity",
+  "hero_h1": "Why fullstack developers choose Google Antigravity",
+  "sections": [
+    {
+      "heading": "Relevant Stories"
+    },
+    {
+      "heading": "Download Google Antigravity"
+    }
+  ],
+  "images": [
+    "/assets/image/use-cases/fullstack/artifacts-and-verification.jpg",
+    "/assets/image/use-cases/fullstack/feedback.jpg",
+    "/assets/image/use-cases/fullstack/manager-to-editor-handoffs.jpg"
+  ],
+  "videos": []
+}

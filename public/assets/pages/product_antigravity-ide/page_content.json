@@ -1,0 +1,20 @@
+{
+  "route": "/product/antigravity-ide",
+  "title": "Google Antigravity - Antigravity IDE",
+  "hero_h1": "Antigravity IDE",
+  "sections": [
+    {
+      "heading": "Explore the main features"
+    }
+  ],
+  "images": [
+    "/assets/image/product/agent.jpg",
+    "/assets/image/product/artifacts.jpg",
+    "/assets/image/product/user-feedback.jpg",
+    "/assets/image/antigravity-cursor.png"
+  ],
+  "videos": [
+    "/assets/video/hero_video.mp4",
+    "/assets/video/product-page/editor.mp4"
+  ]
+}

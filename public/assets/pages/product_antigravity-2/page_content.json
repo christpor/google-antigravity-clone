@@ -1,0 +1,21 @@
+{
+  "route": "/product/antigravity-2",
+  "title": "Google Antigravity - Antigravity 2.0",
+  "hero_h1": "Antigravity 2.0",
+  "sections": [
+    {
+      "heading": "Explore the main features"
+    }
+  ],
+  "images": [
+    "/assets/image/product/hero-middle-gradient.png",
+    "/assets/image/product/subagents.png",
+    "/assets/image/product/scheduled.png",
+    "/assets/image/product/artifacts.png",
+    "/assets/image/product/skills.jpg",
+    "/assets/image/antigravity-cursor.png"
+  ],
+  "videos": [
+    "/assets/video/hero_video.mp4"
+  ]
+}

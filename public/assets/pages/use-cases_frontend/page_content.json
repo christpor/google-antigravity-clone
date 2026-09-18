@@ -1,0 +1,19 @@
+{
+  "route": "/use-cases/frontend",
+  "title": "Google Antigravity - Use Case: Why frontend developers choose Google Antigravity",
+  "hero_h1": "Why frontend developers choose Google Antigravity",
+  "sections": [
+    {
+      "heading": "Relevant Stories"
+    },
+    {
+      "heading": "Download Google Antigravity"
+    }
+  ],
+  "images": [
+    "/assets/image/use-cases/frontend/browser-use.jpg",
+    "/assets/image/use-cases/frontend/visual-artifacts.jpg",
+    "/assets/image/use-cases/frontend/visual-feedback.jpg"
+  ],
+  "videos": []
+}

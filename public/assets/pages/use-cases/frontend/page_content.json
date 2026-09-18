@@ -1,0 +1,52 @@
+{
+  "url": "https://antigravity.google/use-cases/frontend",
+  "route": "/use-cases/frontend",
+  "route_slug": "use-cases/frontend",
+  "title": "Google Antigravity - Use Case: Why frontend developers choose Google Antigravity",
+  "description": "Google Antigravity takes browser integration to the next level, helping you build beautiful, performant, and responsive frontends like never before.",
+  "hero_h1": "Why frontend developers choose Google Antigravity",
+  "all_h1s": [
+    "Why frontend developers choose Google Antigravity"
+  ],
+  "sections": [
+    {
+      "heading": "Relevant Stories",
+      "paragraphs": [],
+      "images": []
+    },
+    {
+      "heading": "Download Google Antigravity",
+      "paragraphs": [
+        "Experience liftoff"
+      ],
+      "images": []
+    }
+  ],
+  "ctas": [
+    "Products keyboard_arrow_down",
+    "Use Cases keyboard_arrow_down",
+    "Pricing",
+    "Enterprise",
+    "Resources keyboard_arrow_down",
+    "Download download",
+    "menu",
+    "See overview"
+  ],
+  "images_with_context": [
+    {
+      "src": "/assets/image/use-cases/frontend/browser-use.jpg",
+      "alt": "Browser Use",
+      "preceding_heading": ""
+    },
+    {
+      "src": "/assets/image/use-cases/frontend/visual-artifacts.jpg",
+      "alt": "Visual Artifacts",
+      "preceding_heading": ""
+    },
+    {
+      "src": "/assets/image/use-cases/frontend/visual-feedback.jpg",
+      "alt": "Visual Feedback",
+      "preceding_heading": ""
+    }
+  ]
+}

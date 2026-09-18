@@ -1,0 +1,28 @@
+{
+  "target_url": "https://antigravity.google",
+  "assets": {
+    "https://antigravity.google/assets/image/product/new-chat.png": "/assets/images/new-chat.png",
+    "https://antigravity.google/assets/image/antigravity-cursor.png": "/assets/images/antigravity-cursor.png",
+    "https://antigravity.google/assets/image/blog/3.7-Flash---Square.jpg": "/assets/images/3.7-Flash---Square.jpg",
+    "https://antigravity.google/assets/image/blog/3.8-Flash---Square.png": "/assets/images/3.8-Flash---Square.png",
+    "https://antigravity.google/assets/image/blog/AGY-Enterprise---Square.png": "/assets/images/AGY-Enterprise---Square.png",
+    "https://antigravity.google/assets/image/blog/Custom_Agents_Blog_1x1.png": "/assets/images/Custom_Agents_Blog_1x1.png",
+    "https://antigravity.google/assets/image/blog/IDE-Extensions-Square.png": "/assets/images/IDE-Extensions-Square.png",
+    "https://antigravity.google/assets/image/blog/VSC-Blog-1x1.png": "/assets/images/VSC-Blog-1x1.png",
+    "https://antigravity.google/assets/image/blog/remote-control-square.png": "/assets/images/remote-control-square.png",
+    "https://antigravity.google/assets/image/blog/teamwork-square.jpg": "/assets/images/teamwork-square.jpg",
+    "https://antigravity.google/assets/image/blog/visualizing-with-antigravity-square.png": "/assets/images/visualizing-with-antigravity-square.png",
+    "https://antigravity.google/assets/image/landing/antigravity-cli.png": "/assets/images/antigravity-cli.png",
+    "https://antigravity.google/assets/image/landing/feature-3.jpg": "/assets/images/feature-3.jpg",
+    "https://antigravity.google/assets/image/landing/landing-thumbnail-enterprise.jpg": "/assets/images/landing-thumbnail-enterprise.jpg",
+    "https://antigravity.google/assets/image/landing/landing-thumbnail-frontend.jpg": "/assets/images/landing-thumbnail-frontend.jpg",
+    "https://antigravity.google/assets/image/landing/landing-thumbnail-fullstack.jpg": "/assets/images/landing-thumbnail-fullstack.jpg"
+  },
+  "svgs": [
+    "/assets/svg/vector_00.svg",
+    "/assets/svg/vector_01.svg",
+    "/assets/svg/vector_02.svg",
+    "/assets/svg/vector_03.svg",
+    "/assets/svg/vector_04.svg"
+  ]
+}

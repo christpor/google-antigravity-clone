@@ -1,0 +1,31 @@
+{
+  "url": "https://antigravity.google/use-cases/enterprise",
+  "route": "/use-cases/enterprise",
+  "route_slug": "use-cases/enterprise",
+  "title": "Google Antigravity - Use Case: Why enterprise developers choose Google Antigravity",
+  "description": "Unite the cutting-edge agentic power of Google DeepMind with the security and scale of Google Cloud. Use Antigravity at work to build, scale, and deploy across 2.0 and the CLI.",
+  "hero_h1": "Why enterprise developers choose Google Antigravity",
+  "all_h1s": [
+    "Why enterprise developers choose Google Antigravity"
+  ],
+  "sections": [
+    {
+      "heading": "Relevant Stories",
+      "paragraphs": [
+        "Experience liftoff"
+      ],
+      "images": []
+    }
+  ],
+  "ctas": [
+    "Products keyboard_arrow_down",
+    "Use Cases keyboard_arrow_down",
+    "Pricing",
+    "Enterprise",
+    "Resources keyboard_arrow_down",
+    "Download download",
+    "menu",
+    "See overview"
+  ],
+  "images_with_context": []
+}

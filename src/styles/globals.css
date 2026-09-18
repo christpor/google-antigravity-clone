@@ -1,0 +1,125 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-blue: #1a73e8;
+  --primary-blue-hover: #1557b0;
+  --surface-dark: #121317;
+  --surface-subtle: #f8f9fa;
+  --text-primary: #121317;
+  --text-muted: #45474d;
+}
+
+body {
+  font-family: 'Google Sans Flex', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  color: var(--text-primary);
+  background-color: #ffffff;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+.font-code {
+  font-family: 'Google Sans Code', monospace;
+}
+
+.google-symbol {
+  font-family: 'Google Symbols', sans-serif;
+  font-variation-settings: 'FILL' 0, 'wght' 300, 'GRAD' 0, 'ROND' 50, 'opsz' 48;
+}
+
+.google-symbol-filled {
+  font-family: 'Google Symbols', sans-serif;
+  font-variation-settings: 'FILL' 1, 'wght' 400, 'GRAD' 0, 'ROND' 50, 'opsz' 48;
+}
+
+/* Custom button pill styles */
+.btn-pill-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 24px;
+  border-radius: 9999px;
+  background-color: #1a73e8;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 1.3;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.btn-pill-primary:hover {
+  background-color: #1557b0;
+  box-shadow: 0 4px 12px rgba(26, 115, 232, 0.25);
+}
+
+.btn-pill-secondary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 24px;
+  border-radius: 9999px;
+  background-color: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  color: #121317;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 1.3;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.btn-pill-secondary:hover {
+  background-color: #f1f3f4;
+  border-color: rgba(0, 0, 0, 0.2);
+}
+
+.btn-pill-dark-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 28px;
+  border-radius: 9999px;
+  background-color: #ffffff;
+  color: #121317;
+  font-weight: 500;
+  font-size: 15px;
+  transition: all 0.2s ease;
+}
+.btn-pill-dark-primary:hover {
+  background-color: #e8eaed;
+}
+
+.btn-pill-dark-secondary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 28px;
+  border-radius: 9999px;
+  background-color: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 15px;
+  transition: all 0.2s ease;
+}
+.btn-pill-dark-secondary:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Blinking cursor */
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+.animate-cursor-blink {
+  animation: blink 0.9s infinite;
+}
+
+/* Hide scrollbar for carousels */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

@@ -1,0 +1,38 @@
+{
+  "route": "/blog",
+  "title": "Google Antigravity - Blog",
+  "hero_h1": "",
+  "sections": [
+    {
+      "heading": "Featured"
+    }
+  ],
+  "images": [
+    "/assets/image/blog/3.8-Flash---Square.png",
+    "/assets/image/blog/teamwork-square.jpg",
+    "/assets/image/blog/visualizing-with-antigravity-square.png",
+    "/assets/image/blog/VSC-Blog-1x1.png",
+    "/assets/image/blog/remote-control-square.png",
+    "/assets/image/blog/AGY-Enterprise---Square.png",
+    "/assets/image/blog/IDE-Extensions-Square.png",
+    "/assets/image/blog/3.7-Flash---Square.jpg",
+    "/assets/image/blog/Custom_Agents_Blog_1x1.png",
+    "/assets/image/blog/3.6-Flash---Square.png",
+    "/assets/image/blog/Google-IO---Square.jpg",
+    "/assets/image/blog/AGY2-Square.jpg",
+    "/assets/image/blog/Agent-Teams-Square.jpg",
+    "/assets/image/blog/AGY-CLI-Blog---Square.png",
+    "/assets/image/blog/AGY-SDK-Blog---Square.png",
+    "/assets/image/blog/AGY-Enterprise-Old---Square.png",
+    "/assets/image/blog/3.5-Flash---Square.png",
+    "/assets/image/blog/features-square.png",
+    "/assets/image/blog/Plans---Square.png",
+    "/assets/image/blog/blog-gemini-3-1-pro-square.png",
+    "/assets/image/blog/blog-gemini-3-flash-square.png",
+    "/assets/image/blog/blog-nano-banana-pro-square.png",
+    "/assets/image/blog/blog-feature-introducing-google-antigravity.png"
+  ],
+  "videos": [
+    "/assets/video/AGY_Logo_loop.mp4"
+  ]
+}

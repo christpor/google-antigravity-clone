@@ -1,0 +1,21 @@
+{
+  "route": "/product/antigravity-sdk",
+  "title": "Google Antigravity - Antigravity SDK",
+  "hero_h1": "Antigravity SDK",
+  "sections": [
+    {
+      "heading": "Important"
+    },
+    {
+      "heading": "Unified Tool Experience"
+    },
+    {
+      "heading": "Focus on Customizing"
+    },
+    {
+      "heading": "Multimodal Ingestion"
+    }
+  ],
+  "images": [],
+  "videos": []
+}

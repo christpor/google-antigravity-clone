@@ -1,0 +1,86 @@
+{
+  "url": "https://antigravity.google/product",
+  "route": "/product",
+  "route_slug": "product",
+  "title": "Google Antigravity - Product",
+  "description": "Explore the features and capabilities of Google Antigravity developer agent suite.",
+  "hero_h1": "",
+  "all_h1s": [],
+  "sections": [
+    {
+      "heading": "Antigravity 2.0",
+      "paragraphs": [
+        "Your command center to manage multiple local agents in parallel. Group conversations into Projects, operate across multiple workspaces, and automate routine tasks with scheduled messages."
+      ],
+      "images": [
+        "/assets/image/product/antigravity-cli.png"
+      ]
+    },
+    {
+      "heading": "Antigravity CLI",
+      "paragraphs": [
+        "The lightweight, fast, terminal-first surface to work with Antigravity agents. Run autonomous coding agents, execute shell commands directly, and manage background subagents all from your keyboard."
+      ],
+      "images": [
+        "/assets/image/product/antigravity-sdk.jpg"
+      ]
+    },
+    {
+      "heading": "Antigravity SDK",
+      "paragraphs": [
+        "Prototype custom agents leveraging Antigravity’s harness with minimal code. Simple Python scripts to iterate on agentic applications, automate software engineering tasks, and run evaluations on top of the Antigravity agent harness."
+      ],
+      "images": []
+    },
+    {
+      "heading": "Antigravity IDE",
+      "paragraphs": [
+        "The fully-featured, agentic IDE. Complete with the agent manager, artifacts, and a deep understanding of your codebase."
+      ],
+      "images": []
+    },
+    {
+      "heading": "Built for productivity",
+      "paragraphs": [
+        "See what builders and developers like you have been able to achieve with Google Antigravity.",
+        "Auto-playing Pinball Machine",
+        "Flight Tracker App",
+        "Inverted Pendulum Controller",
+        "Collaborative Whiteboard App"
+      ],
+      "images": []
+    }
+  ],
+  "ctas": [
+    "Products keyboard_arrow_down",
+    "Use Cases keyboard_arrow_down",
+    "Pricing",
+    "Enterprise",
+    "Resources keyboard_arrow_down",
+    "Download download",
+    "menu",
+    "See overview"
+  ],
+  "images_with_context": [
+    {
+      "src": "/assets/image/antigravity-cursor.png",
+      "alt": "",
+      "preceding_heading": ""
+    },
+    {
+      "src": "/assets/image/product/antigravity-2.jpg",
+      "alt": "Antigravity 2.0",
+      "preceding_heading": ""
+    },
+    {
+      "src": "/assets/image/product/antigravity-cli.png",
+      "alt": "Antigravity CLI",
+      "preceding_heading": ""
+    },
+    {
+      "src": "/assets/image/product/antigravity-sdk.jpg",
+      "alt": "Antigravity SDK",
+      "preceding_heading": ""
+    }
+  ]
+}
