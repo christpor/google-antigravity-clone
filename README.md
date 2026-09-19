@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3186FF&height=220&section=header&text=GOOGLE%20ANTIGRAVITY&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Autonomous%20High-Fidelity%20Clone%20%26%20Kinetic%20Motion%20Engine&descSize=16&descColor=FFFFFF&descAlignY=58" alt="Google Antigravity Header" width="100%"/>
+  <img src="public/assets/images/antigravity-hero-banner.jpg" alt="Google Antigravity Header" width="100%"/>
 </p>
 
 <p align="center">
